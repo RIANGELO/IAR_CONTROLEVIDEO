@@ -1,0 +1,11 @@
+D:\Ricardo\Cliente\O_io\nextvideo\OI_PlayNext\OI_PlayNext\obj\Debug\OI_PlayNext.csproj.AssemblyReference.cache
+D:\Ricardo\Cliente\O_io\nextvideo\OI_PlayNext\OI_PlayNext\obj\Debug\OI_PlayNext.csproj.SuggestedBindingRedirects.cache
+D:\Ricardo\Cliente\O_io\nextvideo\OI_PlayNext\OI_PlayNext\obj\Debug\OI_PlayNext.csproj.CoreCompileInputs.cache
+D:\Ricardo\Cliente\O_io\nextvideo\OI_PlayNext\OI_PlayNext\bin\Debug\OI_PlayNext.exe.config
+D:\Ricardo\Cliente\O_io\nextvideo\OI_PlayNext\OI_PlayNext\bin\Debug\OI_PlayNext.exe
+D:\Ricardo\Cliente\O_io\nextvideo\OI_PlayNext\OI_PlayNext\bin\Debug\OI_PlayNext.pdb
+D:\Ricardo\Cliente\O_io\nextvideo\OI_PlayNext\OI_PlayNext\bin\Debug\AutoItX3.Assembly.dll
+D:\Ricardo\Cliente\O_io\nextvideo\OI_PlayNext\OI_PlayNext\bin\Debug\AutoItX3.Assembly.xml
+D:\Ricardo\Cliente\O_io\nextvideo\OI_PlayNext\OI_PlayNext\obj\Debug\OI_PlayNext.csproj.CopyComplete
+D:\Ricardo\Cliente\O_io\nextvideo\OI_PlayNext\OI_PlayNext\obj\Debug\OI_PlayNext.exe
+D:\Ricardo\Cliente\O_io\nextvideo\OI_PlayNext\OI_PlayNext\obj\Debug\OI_PlayNext.pdb
